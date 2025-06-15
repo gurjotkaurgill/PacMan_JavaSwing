@@ -22,6 +22,12 @@
 - **Game loop optimization**: `repaint()` only when necessary, using `System.currentTimeMillis()` to control update frequency.
 - **Code organization**: Clear separation of concerns, concise method names, and consistent naming conventions.
 
+![image](https://github.com/user-attachments/assets/e3e5129b-2422-4025-80c7-fda3ac95a1d7)
+![image](https://github.com/user-attachments/assets/131761ba-137a-406a-8d70-c4bcfa9b226c)
+![image](https://github.com/user-attachments/assets/b0e8e7ea-c6f7-47b7-ba0c-e2990a6c8a51)
+when cherry eaten - ![image](https://github.com/user-attachments/assets/7c7e5999-39b2-48be-be58-499678704482)
+
+
 ## 🧩 Code Structure & OOP Concepts
 
 ### `App.java`
